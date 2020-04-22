@@ -2,7 +2,7 @@
 
 Specifications of Device-
 
-Ouptput Temperature Range- -40℃ to 125℃.
+Output Temperature Range- -40℃ to 125℃.
 
 Output Voltage Range- 0.1V to 2V.
 
